@@ -56,3 +56,12 @@ python3 manage.py runserver
 python manage.py test -v 2
 ```
 
+
+## Автор тестов
+
+[Kobelev Andrey](https://github.com/andrey-kobelev)
+
+## Стек
+
+- [Python 3.9](https://www.python.org/downloads/release/python-390/)
+- [Django3.2](https://docs.djangoproject.com/en/5.1/releases/3.2/)
